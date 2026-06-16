@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aliento-divino/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Aliento divino](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aliento-divino/) |
+| **Get License** | [Secure Licensing Rights for Aliento divino](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aliento-divino/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c886ecd70cb205254e4d607bc2964f69240b9584021dd695f85c8801923288a7` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
