@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aliento-divino/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Aliento divino](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aliento-divino/) |
+| **Get License** | [Get a Licensing Quote for Aliento divino](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aliento-divino/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la noche entera me pide tu calor
+> Con esa mirada me robaste el control
+> Tú tienes la magia, bailando sin temor
+> Tu aliento divino es mi único motor
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
